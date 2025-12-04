@@ -1,0 +1,21 @@
+# This is the configuration file for Ghostty.
+
+theme = dark:Nord,light:iTerm2 Sagi Light
+
+shell-integration-features = no-cursor
+cursor-style-blink = false
+
+font-family = "Fira Code"
+font-size = 14
+
+unfocused-split-opacity = 1
+
+keybind = ctrl+a>c=new_tab
+keybind = ctrl+a>\=new_split:right
+keybind = ctrl+a>-=new_split:down
+keybind = ctrl+a>n=next_tab
+keybind = ctrl+a>p=previous_tab
+keybind = ctrl+a>h=goto_split:left
+keybind = ctrl+a>j=goto_split:down
+keybind = ctrl+a>k=goto_split:up
+keybind = ctrl+a>l=goto_split:right
