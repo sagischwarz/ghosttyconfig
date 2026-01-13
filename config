@@ -9,6 +9,7 @@ window-inherit-working-directory = false
 
 font-family = "Fira Code"
 font-size = 14
+font-feature = -calt, -liga, -dlig
 
 unfocused-split-opacity = 1
 
