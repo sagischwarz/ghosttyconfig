@@ -6,6 +6,8 @@ theme = dark:Nord,light:iTerm2 Sagi Light
 shell-integration-features = no-cursor
 cursor-style-blink = false
 window-inherit-working-directory = false
+tab-inherit-working-directory = false
+split-inherit-working-directory = false
 
 font-family = "Fira Code"
 font-size = 14
