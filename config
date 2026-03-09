@@ -1,7 +1,7 @@
 # This is the configuration file for Ghostty.
 
 # Appearance
-theme = dark:Nord,light:iTerm2 Sagi Light
+theme = dark:Catppuccin Mocha,light:Catppuccin Latte
 
 shell-integration-features = no-cursor
 cursor-style-blink = false
