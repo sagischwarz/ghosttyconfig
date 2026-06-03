@@ -16,7 +16,7 @@ font-family = "Fira Code"
 font-size = 14
 font-feature = -calt, -liga, -dlig
 
-unfocused-split-opacity = 1
+split-divider-color = #AAAAAA
 
 quick-terminal-size = 50%,50%
 
